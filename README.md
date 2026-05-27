@@ -49,8 +49,8 @@ a.   KVL:
 
 
 b.  KCL:
-<img width="388" height="482" alt="image" src="https://github.com/user-attachments/assets/9b68bf83-d65b-43a0-918f-b65769eae166" />
- 
+<img width="531" height="618" alt="image" src="https://github.com/user-attachments/assets/34464abd-a9f5-4ad7-82a5-e3a8792581c2" />
+
 
 Calculation:
 
@@ -62,8 +62,9 @@ a.   KVL:
 
 b.  KCL:
 
-<img width="379" height="466" alt="image" src="https://github.com/user-attachments/assets/597e4d9a-96a7-41bb-8631-f5fed0270163" />
-<img width="450" height="336" alt="image" src="https://github.com/user-attachments/assets/97044d11-01f9-48b2-be67-aee5a367d311" />
+<img width="529" height="664" alt="image" src="https://github.com/user-attachments/assets/4c2af90c-e68b-4d57-b17c-016fef8585c9" />
+<img width="606" height="467" alt="image" src="https://github.com/user-attachments/assets/b27ac487-7192-4850-9c99-4107a8f2705a" />
+
 
 
 
@@ -75,8 +76,10 @@ a.   KVL:
 
 
 b.  KCL:
+<img width="658" height="464" alt="image" src="https://github.com/user-attachments/assets/237314e2-f4f3-470b-93b9-a68aed4e56f5" />
 
-<img width="512" height="298" alt="image" src="https://github.com/user-attachments/assets/81ee9c7e-edc8-42ea-86e3-31bd2a9a2970" />
+
+
 
 
 RESULT:
