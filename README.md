@@ -18,7 +18,6 @@ KVL: Kirchhoff's voltage law states that the sum of the voltage differences arou
 KCL:
 Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
 
-
 PROCEDURE:
 a.   KVL:
 1.   Connect as per the circuit diagram.
@@ -28,8 +27,6 @@ a.   KVL:
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the voltmeter connected across each resistor.
 7.   Take readings for different values of input voltage and tabulate them.
-
-
 b.  KCL:
 1.   Connect as per the circuit diagram.
 2.   Check if the RPS voltage is set to zero voltage.
@@ -42,11 +39,8 @@ CIRCUIT DIAGRAM:
 
 CIRCUIT DIAGRAM:
 
-
 a.   KVL:
  <img width="1163" height="792" alt="image" src="https://github.com/user-attachments/assets/3fe7c198-e649-4695-a352-adddfbe7afb0" />
-
-
 
 b.  KCL:
 <img width="531" height="618" alt="image" src="https://github.com/user-attachments/assets/34464abd-a9f5-4ad7-82a5-e3a8792581c2" />
@@ -58,35 +52,26 @@ a.   KVL:
  <img width="604" height="798" alt="image" src="https://github.com/user-attachments/assets/428f64c2-99e3-4056-8bc8-0ecc46b968d9" />
 <img width="857" height="309" alt="image" src="https://github.com/user-attachments/assets/799e1481-de29-4c34-b189-18fbfe013db0" />
 
-
-
 b.  KCL:
 
 <img width="529" height="664" alt="image" src="https://github.com/user-attachments/assets/4c2af90c-e68b-4d57-b17c-016fef8585c9" />
 <img width="606" height="467" alt="image" src="https://github.com/user-attachments/assets/b27ac487-7192-4850-9c99-4107a8f2705a" />
-
-
-
 
 Tabulation:
 
 a.   KVL:
  <img width="865" height="319" alt="image" src="https://github.com/user-attachments/assets/951e4767-12f7-4d5f-a216-6962a73bebde" />
 
-
-
 b.  KCL:
 <img width="658" height="464" alt="image" src="https://github.com/user-attachments/assets/237314e2-f4f3-470b-93b9-a68aed4e56f5" />
 
 OUTPUT:
+
 a.KVL
 <img width="975" height="730" alt="image" src="https://github.com/user-attachments/assets/ed82e7cc-096d-4292-b84e-2fa3e574ed67" />
 
-
 b.KCL
 <img width="970" height="656" alt="image" src="https://github.com/user-attachments/assets/2d5b0192-65a0-48bb-8b69-d4d2d271f29d" />
-
-
 
 RESULT:
 
