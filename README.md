@@ -68,7 +68,8 @@ b.  KCL:
 OUTPUT:
 
 a.KVL
-<img width="922" height="698" alt="image" src="https://github.com/user-attachments/assets/eac18821-6797-40dd-8dd7-88b6b02b652e" />
+<img width="939" height="786" alt="image" src="https://github.com/user-attachments/assets/4dbc6322-8afe-4145-bbbc-a75a9969d3ff" />
+
 
 
 b.KCL
