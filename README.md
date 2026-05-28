@@ -74,7 +74,8 @@ a.KVL
 
 
 b.KCL
-<img width="923" height="667" alt="image" src="https://github.com/user-attachments/assets/155c9eeb-4155-4869-84a6-3b176760c591" />
+<img width="492" height="337" alt="image" src="https://github.com/user-attachments/assets/0967dd2f-6332-4b63-806f-170e13005314" />
+
 
 
 RESULT:
